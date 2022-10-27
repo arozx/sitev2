@@ -19,9 +19,18 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+about.txt
+
+todo
+# development pages
 testing.html
 testing.js
 testing.css
 test.html
 test.js
 test.css
+# exaple projects
+example-filetree.css
+example-filetree.html
+# not production ready
+/public/libary
