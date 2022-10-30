@@ -1,0 +1,11 @@
+grid {
+    width: 80%;
+    height: 80%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.headertext {
+padding-left: 17.5%;
+padding-right: 2.5%;
+}
